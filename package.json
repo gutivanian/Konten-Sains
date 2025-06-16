@@ -3,7 +3,8 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://gutivanian.github.io/Konten-Sains",
+"homepage": "https://gutivanian.github.io/Konten-Sains",
+
   "scripts": {
     "dev": "vite",
     "build": "vite build",

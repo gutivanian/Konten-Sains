@@ -5,7 +5,7 @@ import BlogDetail from "./pages/BlogDetail";
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/Konten-Sains">
       <Routes>
         <Route path="/" element={<BlogLanding />} />
         <Route path="/materi/:id" element={<BlogDetail />} />
